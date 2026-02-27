@@ -157,7 +157,7 @@ crontab -e
 ### 방법 B: GitHub Actions (무료, 서버 불필요 — 추천)
 
 1. GitHub에 이 프로젝트를 private 레포지토리로 업로드
-2. 레포 **Settings → Secrets → Actions** 에서 아래 3개 등록
+2. 레포 **Settings → Secrets and variables → Actions** 에서 아래 3개 등록
 
 | Secret 이름 | 값 |
 |---|---|
