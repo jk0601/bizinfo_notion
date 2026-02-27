@@ -2,7 +2,7 @@ name: 매일 공고 수집
 
 on:
   schedule:
-    - cron: '50 7 * * *'  # UTC 07:50 = KST 16:50  
+    - cron: '2-59/5 * * * *'  # UTC 07:50 = KST 16:50  
   workflow_dispatch:       # 수동 실행 버튼도 활성화
 
 jobs:
