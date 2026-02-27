@@ -1,4 +1,4 @@
-name: 매일 공고 수집
+name: bizinfo_notion
 
 on:
   schedule:
